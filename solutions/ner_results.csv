@@ -1,0 +1,18 @@
+text_id,entity_text,entity_type,description,start_pos,end_pos,source_text
+1,Angela Merkel,PER,Named person or family.,0,13,Angela Merkel war deutsche Bundeskanzlerin und lebte in Berlin.
+1,Berlin,LOC,"Non-GPE locations, mountain ranges, bodies of water",56,62,Angela Merkel war deutsche Bundeskanzlerin und lebte in Berlin.
+2,BMW,ORG,"Companies, agencies, institutions, etc.",0,3,BMW und Mercedes-Benz sind deutsche Automobilhersteller.
+2,Mercedes-Benz,ORG,"Companies, agencies, institutions, etc.",8,21,BMW und Mercedes-Benz sind deutsche Automobilhersteller.
+3,Universität München,ORG,"Companies, agencies, institutions, etc.",4,23,Die Universität München liegt in Bayern.
+3,Bayern,LOC,"Non-GPE locations, mountain ranges, bodies of water",33,39,Die Universität München liegt in Bayern.
+4,Apple Inc.,ORG,"Companies, agencies, institutions, etc.",0,10,Apple Inc. wurde von Steve Jobs in Kalifornien gegründet.
+4,Steve Jobs,PER,Named person or family.,21,31,Apple Inc. wurde von Steve Jobs in Kalifornien gegründet.
+4,Kalifornien,LOC,"Non-GPE locations, mountain ranges, bodies of water",35,46,Apple Inc. wurde von Steve Jobs in Kalifornien gegründet.
+5,Deutsche Bank,ORG,"Companies, agencies, institutions, etc.",4,17,Die Deutsche Bank hat ihren Hauptsitz in Frankfurt am Main.
+5,Frankfurt am Main,LOC,"Non-GPE locations, mountain ranges, bodies of water",41,58,Die Deutsche Bank hat ihren Hauptsitz in Frankfurt am Main.
+6,Google LLC,MISC,"Miscellaneous entities, e.g. events, nationalities, products or works of art",0,10,Google LLC ist ein amerikanisches Technologieunternehmen.
+7,Allianz SE,ORG,"Companies, agencies, institutions, etc.",4,14,Die Allianz SE ist ein deutscher Versicherungskonzern aus München.
+7,München,LOC,"Non-GPE locations, mountain ranges, bodies of water",58,65,Die Allianz SE ist ein deutscher Versicherungskonzern aus München.
+8,Microsoft,ORG,"Companies, agencies, institutions, etc.",0,9,Microsoft wurde von Bill Gates und Paul Allen gegründet.
+8,Bill Gates,PER,Named person or family.,20,30,Microsoft wurde von Bill Gates und Paul Allen gegründet.
+8,Paul Allen,PER,Named person or family.,35,45,Microsoft wurde von Bill Gates und Paul Allen gegründet.
